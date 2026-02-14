@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Anthony! 👋
+
+I'm a CS Sophomore building my portfolio. Currently working on:
+    
+    - Personal Website (In Progress)
+
+    - Automation Project (Planned for Spring Break)
 
 <!--
 **Anthony-00101011/Anthony-00101011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
